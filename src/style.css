@@ -1,0 +1,48 @@
+#titulo {
+  text-align: center;
+  opacity: 1;
+}
+
+h2 {
+  text-align: center;
+  opacity: 1;
+}
+
+#tituloPag2{
+    text-align: center;
+    opacity: 0.0;
+}
+#reset-button {
+  background-color: rgb(84, 184, 159);
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  margin: 0 auto;
+  border: 0px solid;
+  cursor: pointer;
+  display: flex;
+}
+
+#button{
+background-color: rgb(152, 218, 166);
+  color: white;
+  font-size: 20px;
+  padding: 10px;
+  margin: 0 auto;
+  border: 0px solid;
+  cursor: pointer;
+  display: flex;
+  opacity: 1;
+}
+
+#gifPaises {
+    margin: 0 auto;
+    display: flex;
+    opacity: 1;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  margin: 0 auto;
+}
